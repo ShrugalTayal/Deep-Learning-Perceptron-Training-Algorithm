@@ -1,5 +1,5 @@
 # Deep-Learning-Perceptron-Training-Algorithm
-Implement a Perceptron Training Algorithm from Scratch
+Implement a Perceptron Training Algorithm from scratch
 
 
 PTA updates weights when a mistake is made.
